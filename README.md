@@ -7,7 +7,7 @@ I think this repo gonna become one of the best renamer open source 🥰.
 Please Give a ⭐ if you like this repo and also try following me for more best open source codes<br><br>
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/blue?icon=github)](https://github.com/Ns-Bots/TG-RENAMER-BOT)
 [![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/Ns_AnoNymouS)
-[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/Ns_AnoNymouS)
+
 
 ## Mapping
 [Deploy to Heroku 🗳](https://github.com/Ns-Bots/TG-RENAMER-BOT#deploy-to-heroku-)
@@ -27,17 +27,11 @@ Please Give a ⭐ if you like this repo and also try following me for more best 
 [Thanks And Credits 🎉](https://github.com/Ns-Bots/TG-RENAMER-BOT#thanks-and-credits-)
 
 ## Deploy to Heroku 🗳
-Press the following button to deploy in heroku.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ns-Bots/TG-RENAMER-BOT)
 
-## WARNING ⚠️
-Direct Deploy via button not working?? Suspension issue??
-Then simply do these 👉: Fork Repo, Edit Readme, Edit Deploy Link, Edit Repo name
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/falanadikhana1/myrename)
 
-## Bot Features 🔥
-- Renaming Telegram files as file or video.
-
+#
 - Trace Channel to track the users what they are doing with your bot.
 
 - Password to use bot in private.
